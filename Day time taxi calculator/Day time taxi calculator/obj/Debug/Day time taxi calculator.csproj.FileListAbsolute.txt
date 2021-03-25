@@ -1,0 +1,7 @@
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\bin\Debug\Day time taxi calculator.exe.config
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\bin\Debug\Day time taxi calculator.exe
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\bin\Debug\Day time taxi calculator.pdb
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\obj\Debug\Day time taxi calculator.csprojAssemblyReference.cache
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\obj\Debug\Day time taxi calculator.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\obj\Debug\Day time taxi calculator.exe
+C:\Users\Benjamin Shaw\source\repos\Day time taxi calculator\Day time taxi calculator\obj\Debug\Day time taxi calculator.pdb
